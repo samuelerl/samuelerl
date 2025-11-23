@@ -4,11 +4,11 @@
 ---
 
 ## 🧠 Summary
-- **Software Engineer Intern @ Harmonic** — Python microservices, high-availability storage (DRBD + Pacemaker), and K8s networking (Calico, SR-IOV, Mellanox)
-- **Lead Technical Staff @ Find Your Homie** — AI-powered student housing platform (Flask · React · Docker · Vercel)
-- **Founder of Elder Connect** — digital literacy nonprofit supporting 50+ seniors across the Bay Area
-- **Ex-QA Engineer @ Tring** — 150+ automated API tests, CI gating, and backend validation tooling
-- Focus areas: distributed systems, observability stacks, HA architectures, and ML-driven applications  
+- **Software Engineer Intern @ Harmonic** 
+- **Technical Staff @ Find Your Homie** 
+- **Founder of Elder Connect**
+- **Ex QA Engineer @ Tring** 
+- Focus areas: distributed systems, networking, observability stacks, HA architectures, and ML-driven applications  
 - Tech: Python, C++, Go, R, Kubernetes, Docker, Jenkins, Elastic Stack, PostgreSQL, Linux
 
 ---
