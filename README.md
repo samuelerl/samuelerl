@@ -39,7 +39,7 @@ AI/NLP-based recommendation system for affordable concerts.
 
 ---
 
-### ✈️ Factorial Design Experiment (2³ DOE)
+### [✈️ Factorial Design Experiment (2³ DOE)](https://github.com/samuelerl/Full-Factorial-Design-in-R)
 Statistical experiment modeling mass-distribution effects on paper airplane flight.  
 - Linear models, ANOVA, Monte Carlo power analysis in R  
 - Full regression diagnostics and predictor significance evaluation
