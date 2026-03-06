@@ -15,7 +15,7 @@
 
 ## 📌 Projects
 
-### 🌐 Internet Latency Modeling (RIPE Atlas)
+### [🌐 Internet Latency Modeling (RIPE Atlas)](https://github.com/samuelerl/internetLatency)
 Network measurement and machine learning analysis of real-world internet latency using RIPE Atlas probe data.
 
 - Built a Python data pipeline using the RIPE Atlas APIs to sample U.S. probes and aggregate ping measurements into hourly summaries (~97k observations)
