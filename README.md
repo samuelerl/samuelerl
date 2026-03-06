@@ -15,6 +15,16 @@
 
 ## 📌 Projects
 
+### 🌐 Internet Latency Modeling (RIPE Atlas)
+Network measurement and machine learning analysis of real-world internet latency using RIPE Atlas probe data.
+
+- Built a Python data pipeline using the RIPE Atlas APIs to sample U.S. probes and aggregate ping measurements into hourly summaries (~97k observations)
+- Engineered features including ISP (ASN mapping), geographic region, protocol (IPv4/IPv6), traffic activity, and distance to the nearest Google datacenter
+- Performed exploratory data analysis and trained multiple models in R using **tidymodels** (linear regression, elastic net, decision trees, random forest, gradient boosted trees)
+- Best model: **gradient boosted trees (RMSE ≈ 8.8 ms)**; feature importance highlighted p90 latency and geographic distance as key predictors
+
+---
+
 ### 🏡 Find Your Homie — AI Housing Platform
 A full-stack intelligent housing matcher for students.  
 - Flask backend · React frontend · Dockerized deployment  
